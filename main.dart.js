@@ -41832,11 +41832,11 @@ return M.fo(s,new D.yd(this.d,s,s,s,s,s,s,C.H,s,s,s,C.tu,s,s,s,s,s,s,s,L.mb(this
 L.ya.prototype={
 An:function(a){var s=null,r=F.az(a,!1).a.a<800?F.az(a,!1).a.b*0.2:F.az(a,!1).a.a*0.2,q=F.az(a,!1).a.a<800?F.az(a,!1).a.b*0.2:F.az(a,!1).a.a*0.2
 return M.fo(s,s,s,s,S.hB(C.mZ,s,s,H.b([new O.fj(7,P.b6(C.N.ay(178.5),158,158,158),new P.p(0,3),7)],t.ec),C.bK,s,new X.vn(new L.nB("profile.png"),C.n2,C.aQ),C.aR),s,r,s,s,s,q)},
-Am:function(a){var s,r,q=null,p=F.az(a,!1).a.a<800?1:1.5
+Am:function(a){var s,r,q=null,p=F.az(a,!1).a.a<800?1.3:1.5
 p=L.mb("Hey there! My name is",q,A.f1(q,q,C.bK,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q),C.aM,p)
 s=F.az(a,!1).a.a<800?1.5:2
 s=L.mb("Abhishek Desai",q,A.f1(q,q,C.x,q,q,q,q,q,q,q,q,q,q,C.bU,q,q,!0,q,q,q,q,q,q),C.aM,s)
-r=F.az(a,!1).a.a<800?1:1.4
+r=F.az(a,!1).a.a<800?1.2:1.4
 return M.fo(q,T.Gi(H.b([p,new T.ce(q,15,q,q),s,new T.ce(q,15,q,q),L.mb("Computer Engineering student.\nI love Competitive Coding.\nFlutter and IoT enthusiast.\nExploring ML.",!0,A.f1(q,q,C.x,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q),C.aM,r),new T.ce(q,20,q,q)],t.t),C.ig,C.dU,C.aL),q,q,q,q,q,q,q,q,q)},
 G:function(a){var s=this,r=t.t
 return B.Mx(T.q3(H.b([s.An(a),s.Am(a)],r),C.aT,C.og,C.aL),T.Gi(H.b([s.An(a),new T.ce(null,F.az(a,!1).a.b*0.1,null,null),s.Am(a)],r),C.aT,C.ly,C.aL))}}
